@@ -3,7 +3,7 @@
 session_save_path( "/home/users/web/b46/ipg.leddsoftwarecom/cgi-bin/tmp" );
 //session_start();
 
-class CLeadFlash extends CBaseAggregator
+class CAgg extends CBaseAggregator
 {    
     
     private $hop  = array("WEEKLY" => "Weekly","BIWEEKLY" => "Every 2 weeks",
