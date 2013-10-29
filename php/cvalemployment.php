@@ -1,5 +1,5 @@
 <?php 
-session_save_path( "/home/users/web/b46/ipg.leddsoftwarecom/cgi-bin/tmp" );
+
 session_start();
 
        
