@@ -1,0 +1,194 @@
+.header2
+{
+	width: 960px;
+	margin-bottom: 10px;
+	border: 2px solid #000;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#formApp
+ {
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	border-top-width: 2px;
+	border-right-width: 2px;
+	border-bottom-width: 2px;
+	border-left-width: 2px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+
+#formApp fieldset legend 
+{
+	margin-bottom: 2px;
+	background-color: #0099CC;
+	border: 1px solid #dcdcdc;
+	border-radius: 10px;
+	text-align: left;
+	text-transform: uppercase;
+	clear: both;
+	padding-top: 10px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+}
+
+#formApp fieldset
+ {
+	background-color: #ccf;
+	width: 650px;
+	margin-top: 10px;	
+}
+
+#formApp fieldset label 
+{
+	margin-top: 10px;
+	margin-right: 10px;
+	float: left;
+	
+	text-align: right;
+	width: 200px;
+}
+
+#formApp fieldset input 
+{
+	margin-top: 10px;		
+	float: left;
+	width: 175px;
+}
+
+#formApp fieldset select
+ {
+	margin-top: 10px;	
+	margin-right: 10px;	
+	width: 175px;
+	float:left;
+}
+
+#formApp textarea {
+	width: 500px;
+	height: 250px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 20px;
+}
+
+input.error, select.error, textarea.error
+{
+   background: #FFA9B8;
+   border: 1px solid red;
+     
+}
+
+       
+label.error 
+{
+	color: #F00;
+	font-weight: bold;
+	float: none;
+	display: none;
+}
+
+
+#formApp fieldset div 
+{
+	clear: both;
+}
+
+.clearit
+{
+	clear: both;
+}
+
+#formApp fieldset select .smallText
+{
+	width: 75px;
+	height: 20px;
+}
+
+
+#formApp fieldset img {
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}
+
+
+#formApp div .rdio {
+	float: left;
+	margin-top: 15px;
+	margin-right: 15px;
+	margin-bottom: 15px;
+	margin-left: auto;
+}
+#formApp div p {
+	margin-left: 15px;
+}
+#formApp #wait {
+	font-size: 18px;
+	color: #F00;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+}
+
+.subButton 
+{
+	display: block;
+	height: 80px;
+	width: 500px;
+	background-color: #F00;
+	margin-right: auto;
+	margin-left: auto;
+	font-size: 2em;
+	font-family: "Arial Black", Gadget, sans-serif;
+	padding: 5px;
+	border: 10px solid #F00;
+	text-transform: uppercase;
+	word-wrap: break-word;
+	vertical-align: baseline;
+}
+
+.smallTextBox
+{
+	margin-left: 2em;
+	
+	width: 75px;
+	height: 20px;
+}
+
+.smallTextBOx2
+{
+	margin-left: 1%;
+	width: 75px;
+	height: 20px;
+}
+
+.hidden 
+{
+  display: none;
+}
+
+.lferror
+{   
+   color: red;
+   font-weight: bold;  
+   display: block;   
+   float:left;
+}
+
+span
+{
+    display: block;
+	font-weight: bold;
+	color:red;
+	margin-top: 10px;
+	margin-left: 10px;
+	float: left;
+}
