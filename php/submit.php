@@ -30,7 +30,7 @@
         }
         
         $a = array();
-        $a[] = new CLeadFlash();
+        $a[] = new C.....();
         
         foreach( $a as $cba)
         {
